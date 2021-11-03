@@ -1,5 +1,15 @@
+<p align="center"/> <img src="assets/logo.svg" width=300>
+
+<p align="center">
+   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/trevor-moon/vivaldi-windows-theme?color=00adef&logoColor=00adef"/>
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/trevor-moon/vivaldi-windows-theme?color=00adef&logoColor=00adef"/>
+   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/trevor-moon/vivaldi-windows-theme?color=00adef"/>
+   <img alt="GitHub" src="https://img.shields.io/github/license/trevor-moon/vivaldi-windows-theme?color=00adef">
+</p>
+
 # vivaldi-windows-theme
-Windows blue theme for Vivaldi web browser
+
+Windows blue themes for Vivaldi web browser. The themes are mostly dark themes using the Windows 10 blue `00adef`.
 
 ## Install
 
@@ -21,7 +31,7 @@ Windows blue theme for Vivaldi web browser
 
 ## Roadmap
 
-- [ ] Add project logo
+- [X] Add project logo
 - [ ] Add light themes
 - [ ] Workflow for managing themes
 - [ ] Contributing templates
