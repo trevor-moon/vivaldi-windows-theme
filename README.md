@@ -9,6 +9,8 @@
 
 # vivaldi-windows-theme
 
+**I will be migrating these themes to my [other project](https://github.com/trevor-moon/vivaldi-themes) to keep all my themes in one location. I will reference [this project](https://github.com/trevor-moon/vivaldi-windows-theme) as I migrate things over.**
+
 Windows blue themes for Vivaldi web browser. The themes are mostly dark themes using the Windows 10 blue `00adef`.
 
 ## Install
